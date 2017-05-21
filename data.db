@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "hero": 1,
+    "table": 1,
+    "Cat": 30
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "hero": {},
+    "table": {},
+    "Cat": {
+      "1": "{\"name\":\"Dumb Sam\",\"color\":\"Yellow\",\"gender\":\"Male\",\"age\":2,\"breed\":\"Abyssinian\",\"id\":1}",
+      "2": "{\"name\":\"Silly Squarehead\",\"color\":\"Red\",\"gender\":\"Female\",\"age\":2,\"breed\":\"Siamese\",\"id\":2}",
+      "3": "{\"name\":\"Dumb Elvira\",\"color\":\"Invisible\",\"gender\":\"Female\",\"age\":1,\"breed\":\"American Shorthair\",\"id\":3}",
+      "4": "{\"name\":\"Lord Lynn\",\"color\":\"Red\",\"gender\":\"Male\",\"age\":15,\"breed\":\"Chartreux\",\"id\":4}",
+      "5": "{\"name\":\"Dumb Jacob\",\"color\":\"Blue\",\"gender\":\"Female\",\"age\":10,\"breed\":\"Manx\",\"id\":5}",
+      "6": "{\"name\":\"Brave Jacob\",\"color\":\"Green\",\"gender\":\"Male\",\"age\":12,\"breed\":\"Maine Coon\",\"id\":6}",
+      "7": "{\"name\":\"Dumb Dumpster Fire\",\"color\":\"Green\",\"gender\":\"Female\",\"age\":13,\"breed\":\"Persian\",\"id\":7}",
+      "8": "{\"name\":\"Crazy Titan\",\"color\":\"Red\",\"gender\":\"Female\",\"age\":14,\"breed\":\"Siamese\",\"id\":8}",
+      "9": "{\"name\":\"Most Exalted Knight Kitten Zombie\",\"color\":\"White\",\"gender\":\"Male\",\"age\":5,\"breed\":\"Persian\",\"id\":9}",
+      "10": "{\"name\":\"Crazy Squarehead\",\"color\":\"Black\",\"gender\":\"Female\",\"age\":5,\"breed\":\"American Wirehair\",\"id\":10}",
+      "11": "{\"name\":\"King Fufflepants the III\",\"color\":\"Red\",\"gender\":\"Female\",\"age\":11,\"breed\":\"Abyssinian\",\"id\":11}",
+      "12": "{\"name\":\"Silly Squarehead\",\"color\":\"Invisible\",\"gender\":\"Male\",\"age\":14,\"breed\":\"Persian\",\"id\":12}",
+      "13": "{\"name\":\"Brave Kitten Zombie\",\"color\":\"Rainbow\",\"gender\":\"Female\",\"age\":13,\"breed\":\"Chartreux\",\"id\":13}",
+      "14": "{\"name\":\"Emperor Jacob\",\"color\":\"White\",\"gender\":\"Male\",\"age\":15,\"breed\":\"American Shorthair\",\"id\":14}",
+      "15": "{\"name\":\"Scruffy Kitten Zombie\",\"color\":\"White\",\"gender\":\"Female\",\"age\":11,\"breed\":\"American Shorthair\",\"id\":15}",
+      "16": "{\"name\":\"Scruffy Redshirt\",\"color\":\"Yellow\",\"gender\":\"Male\",\"age\":8,\"breed\":\"American Curl\",\"id\":16}",
+      "17": "{\"name\":\"Most Exalted Knight Kitten Zombie\",\"color\":\"Black\",\"gender\":\"Male\",\"age\":4,\"breed\":\"Chartreux\",\"id\":17}",
+      "18": "{\"name\":\"Fluffy Fufflepants the III\",\"color\":\"Blue\",\"gender\":\"Male\",\"age\":9,\"breed\":\"American Wirehair\",\"id\":18}",
+      "19": "{\"name\":\"Fatty Fufflepants the III\",\"color\":\"Black\",\"gender\":\"Male\",\"age\":3,\"breed\":\"American Shorthair\",\"id\":19}",
+      "20": "{\"name\":\"Silly Squarehead\",\"color\":\"Red\",\"gender\":\"Male\",\"age\":10,\"breed\":\"Maine Coon\",\"id\":20}",
+      "21": "{\"name\":\"Scruffy Dumpster Fire\",\"color\":\"White\",\"gender\":\"Male\",\"age\":8,\"breed\":\"Devon Rex\",\"id\":21}",
+      "22": "{\"name\":\"Silly Lynn\",\"color\":\"Invisible\",\"gender\":\"Male\",\"age\":10,\"breed\":\"Devon Rex\",\"id\":22}",
+      "23": "{\"name\":\"Queen Unicorn Rider\",\"color\":\"Red\",\"gender\":\"Male\",\"age\":14,\"breed\":\"Chartreux\",\"id\":23}",
+      "24": "{\"name\":\"Hairy Jacob\",\"color\":\"Rainbow\",\"gender\":\"Male\",\"age\":12,\"breed\":\"Siamese\",\"id\":24}",
+      "25": "{\"name\":\"Smelly Elvira\",\"color\":\"White\",\"gender\":\"Male\",\"age\":13,\"breed\":\"Maine Coon\",\"id\":25}",
+      "26": "{\"name\":\"ayden1Cat\",\"color\":\"string\",\"gender\":\"string\",\"age\":0,\"breed\":\"string\",\"id\":26}",
+      "27": "{\"name\":\"cat12\",\"color\":\"string\",\"gender\":\"string\",\"age\":0,\"breed\":\"string\",\"id\":27}",
+      "28": "{\"name\":\"Fluffydd\",\"color\":\"string\",\"gender\":\"string\",\"age\":0,\"breed\":\"string\",\"id\":28}",
+      "29": "{\"name\":\"swqa\",\"color\":\"string\",\"gender\":\"string\",\"age\":0,\"breed\":\"string\",\"id\":29}"
+    }
+  }
+}
